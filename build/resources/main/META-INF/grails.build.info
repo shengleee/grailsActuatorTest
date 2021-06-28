@@ -1,0 +1,6 @@
+#Mon, 28 Jun 2021 15:28:07 +0800
+
+info.app.version=0.1
+info.app.name=grailsActuatorTest
+grails.env=development
+info.app.grailsVersion=4.0.10
